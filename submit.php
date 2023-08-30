@@ -1,9 +1,9 @@
 <?php
 // Database connection information
 $servername = "localhost";
-$username = "portfolioadmin";
-$password = "admin";
-$dbname = "portfolio";
+$username = "htmluser";
+$password = "html123";
+$dbname = "htmldatabase";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
